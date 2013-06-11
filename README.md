@@ -6,4 +6,4 @@ The sha256 hash algorithm plugin for jquery, is meant to enable client-side or s
 
 ## Usage
 
-var hash == $.sha256(data);
+	var hash == $.sha256(data);
