@@ -1,0 +1,38 @@
+﻿{
+    "name": "sha256",
+    "version": "1.0.0",
+    "title": "sha256 hash encoding",
+    "author": {
+        "name": "Jacob Bair",
+        "url": "https://github.com/orsozed"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://raw.github.com/orsozed/JQuery-Plugins/master/license/MIT-LICENSE.txt"
+        },
+        {
+            "type": "GPLv2",
+            "url": "https://raw.github.com/orsozed/JQuery-Plugins/master/license/GPL-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.6"
+    },
+    "description": "This plug-in allows you to sha-256 encode the content of a string or object.",
+    "keywords": [
+        "SHA256",
+        "sha256",
+        "hash",
+        "encode",
+		"security",
+		"comparison"
+    ],
+    "homepage": "https://github.com/orsozed/sha256.jquery.plugin",
+    "maintainers": [
+        {
+            "name": "Jacob Bair",
+            "url": "https://github.com/orsozed"
+        }
+    ]
+}
